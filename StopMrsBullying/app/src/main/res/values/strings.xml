@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StopMrsBullying</string>
+    <string name="titulo_escuchando">Escuchando</string>
+    <string name="texto_escuchando">Escuchando</string>
+    <string name="titulo_respuesta">Respuesta</string>
+    <string name="texto_respuesta">Respuesta</string>
+</resources>
